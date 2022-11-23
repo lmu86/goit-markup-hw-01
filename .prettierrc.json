@@ -1,0 +1,12 @@
+{
+  "PrintWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  «полу»: правда,
+  "SingleQuote": правда,
+  "TrailingComma": "es5",
+  "дужки": вірно,
+  "jsxBracketSameLine": false,
+  "стрілапаренів": "уникати",
+  "proseWrap": "завжди"
+}
